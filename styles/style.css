@@ -1,0 +1,189 @@
+header
+{
+    height: 120px;   
+}
+
+#bigtone
+{
+  position: fixed;
+  top: 71px;
+  left:55px;
+  z-index: 1;
+  transition-duration: 0.4s;
+}
+
+#menu 
+{
+  position: fixed;
+  top: 71px;
+  right: 55px;
+  z-index: 1;
+  transition-duration: 0.4s;
+}
+
+#close 
+{
+  position: fixed;
+  top: 71px;
+  right: 55px;
+  z-index: 1;
+  transition-duration: 0.4s;
+}
+
+#menu:hover,#bigtone:hover,#close:hover
+{
+  font-weight: bold;
+  transform: rotate(360deg);
+}
+
+#girlsea
+{
+   position: relative;   
+}
+
+#shapes
+{
+   font-size: 15rem;
+   position: absolute;
+   top: 365px;
+   left: 55px; 
+}
+
+#movements
+{
+   font-size: 15rem;
+   position: absolute;
+   top: 600px;
+   left: 280px;
+   
+}
+
+#plus
+{
+    font-size: 22rem;
+    font-weight: 100;
+    position: absolute;
+    top: 500px;
+    left: 55px;
+}
+
+main
+{
+   font-family: 'Helvetica Neue','Roboto', sans-serif;
+}
+
+#ladies
+{
+    font-size: 12rem;
+    color: #FFCDC1;
+}
+
+#mens
+{
+    font-size: 12rem;
+    color: #CBE9FF;
+}
+
+#childs
+{ 
+    font-size: 12rem;
+    color: #E0FCB5;
+}
+
+a span
+{
+   font-size: small;    
+}
+
+article
+{
+  padding-left: 20px;
+}
+
+#couple
+{
+ position: relative;
+}
+
+#our
+{
+ position: absolute;
+ top: 330px;
+ left: 380px;
+ font-size: 15rem;   
+ line-height: 16rem;
+}
+
+#play
+{
+  font-size: 1.5rem;  
+  position: absolute;
+  top: 450px;
+  left: 1000px;
+}
+
+#icon
+{
+  height: 50px;  
+  position: absolute;
+  top: 445px;
+  left: 945px;
+}
+
+#menucard
+{
+ z-index: 2;
+}
+
+#shoplink
+{
+  position:absolute;
+  top: 90px;
+  left: 450px;
+  font-size: 15rem; 
+  line-height: 14rem;  
+  z-index: 1;
+
+}
+
+#ourstorylink
+{
+  position:absolute;
+  top: 330px;
+  left: 450px;
+  font-size: 15rem; 
+  text-decoration: underline;
+  line-height: 14rem;  
+  z-index: 3;
+}
+
+
+
+#lookbooklink
+{
+  position:absolute;
+  top: 550px;
+  left: 450px;
+  font-size: 15rem; 
+  line-height: 14rem;  
+  z-index: 1;
+}
+
+#socialmenu
+{
+  position: absolute;
+  top: 650px;
+  left: 55px;
+}
+
+#cookiepolicy
+{
+  position: fixed;
+  top: 68%;
+  left: 68%;
+  z-index: 4;
+  
+}
+
+
+
