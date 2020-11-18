@@ -4,7 +4,7 @@ $('#menu').on('click',function(){
     $('#defaultmain').fadeOut(600);
     $('#menu').fadeOut(200);
     $('#close').fadeIn(200);
-    $('body').css('overflow','hidden');
+   
  
 });
 
@@ -15,7 +15,7 @@ $('#close').on('click',function(){
 
     $('#menu').fadeIn(200);
     $('#close').fadeOut(200);
-    $('body').css('overflow','auto');
+   
    
 });
 
